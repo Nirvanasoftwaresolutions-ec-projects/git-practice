@@ -1,2 +1,2 @@
-Hello, 
+Hello....
 This file contains string files
